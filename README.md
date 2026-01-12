@@ -1,4 +1,5 @@
 📊 Dashboard de Vendas de Assinaturas – Xbox Game Pass, Minecraft Season Pass e EA Play
+
 📌 Visão Geral
 
 Este projeto consiste na criação de um dashboard interativo no Microsoft Excel para análise das vendas de assinaturas dos serviços Xbox Game Pass, Minecraft Season Pass e EA Play Season Pass.
